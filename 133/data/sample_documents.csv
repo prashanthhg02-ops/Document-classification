@@ -1,0 +1,13 @@
+label,text
+invoice,"Invoice INV-1042 for consulting services provided in March. Payment is due within thirty days. Total amount due is 4,850 dollars."
+invoice,"Please find the attached invoice for the annual software subscription. The billing address and tax amount are listed below."
+invoice,"This billing statement includes line items, unit prices, subtotal, sales tax, and the outstanding balance for your account."
+contract,"This agreement is entered into by the supplier and customer for a twelve month term. Both parties must sign the contract."
+contract,"The service agreement defines responsibilities, confidentiality, termination rights, and governing law for the parties."
+contract,"The employment contract describes compensation, working hours, benefits, and the conditions for ending employment."
+resume,"Software engineer with five years of Python experience, a masters degree in computer science, and a history of delivering web applications."
+resume,"Professional experience includes project management, stakeholder communication, agile delivery, and leadership of cross functional teams."
+resume,"Education includes a bachelor degree in marketing. Skills include research, campaign planning, analytics, and content strategy."
+report,"The quarterly report summarizes revenue growth, operating costs, customer retention, and performance against the business plan."
+report,"Analysis of the survey results shows three major trends. The findings and recommendations are described in the following sections."
+report,"The incident report records the timeline, observed impact, root cause analysis, and corrective actions for the production outage."
